@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "testaaa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "testaaa"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "test.md",
+            "file": "testaaa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "test.md",
+            "file": "testaaa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "test.md",
+            "file": "testaaa.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -186,7 +186,7 @@
   },
   "active": "15c2a44ae5d68375",
   "lastOpenFiles": [
-    "test.md",
+    "testaaa.md",
     "未命名.base"
   ]
 }
